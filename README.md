@@ -7,3 +7,4 @@
    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
     <a href="https://www.oracle.com/kr/java/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yjh-1008&show_icons=true&locale=en&layout=compact" alt="yjh-1009" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yjh-1008&show_icons=true&locale=en" alt="yjh-1008" /></p>
