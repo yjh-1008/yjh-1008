@@ -1,4 +1,4 @@
-<h2 align="center">Hi I'm Yu Jun Ho</h2>
+<h2 align="center">Yu Jun Ho</h2>
 <h3 align="left" I’m currently learning JavaScript, React, Spring,Java </h3>
 <h3 align="left">Languages</h3>
 <p align="left"> 
