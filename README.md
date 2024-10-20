@@ -54,14 +54,14 @@
 
 <div>
    <h2>Contacts</h2>
-   <a href="https://invincible-cowl- e62.notion.site/aa93537dd96d4c24b1c1f265a7550156?pvs=4](https://invincible-cowl-e62.notion.site/aa93537dd96d4c24b1c1f265a7550156">
+   <a href="https://invincible-cowl-e62.notion.site/aa93537dd96d4c24b1c1f265a7550156">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
    </a>
    <a href="mailto:exesea12@gmail.com">
          <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
    </a>
    <a href="mailto:dbwnsgh1226@naver.com">
-             <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
    </a>
 </div>
 
